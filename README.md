@@ -7,7 +7,9 @@ Have you ever been sitting in traffic on Wilshire Blvd. and wished you were havi
 These puppies met on their commute using Crush Hour.
 
 ###Technologies
-Crush Hour will be built in the MEAN stack and made responsive by use of Bootstrap, so that it can be used in the cell phone browser. Users will sign in through facebook and Crush Hour will use the public Google Maps Geolocation API to determine users' locations and match them with others nearby. 
+Crush Hour will be built in the MEAN stack and made responsive by use of Bootstrap, so that it can be used in the cell phone browser. Users will sign in through facebook and Crush Hour will use the public Google Maps Geolocation API to determine users' locations and match them with others nearby.
+
+![Puppies In Love](assets/corgistreadmill.gif)
 
 - HTML5
 - CSS
