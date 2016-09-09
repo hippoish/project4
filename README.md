@@ -4,6 +4,8 @@ Crush Hour front end repo: https://github.com/hippoish/CrushHourFrontEnd
 
 Crush Hour api repo: https://github.com/hippoish/CrushHourAPI
 
+Deployed app: https://hippoish.github.io/CrushHourFrontEnd
+
 
 ###Description
 Have you ever been sitting in traffic on Wilshire Blvd. and wished you were having fun instead? Have you ever wondered if others around you, sitting isolated in their own cars, were feeling the same way? Welcome to Crush Hour, the dating app for Angelinos. With Crush Hour, you can say goodbye to the Traffic Jam blues by locating someone near you who also wants to escape the tedium of rush hour! You will be matched with someone for a spur of the moment date: what a great alternative when you're not going anywhere anyway.
